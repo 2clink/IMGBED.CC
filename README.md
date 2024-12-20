@@ -1,0 +1,2 @@
+# IMGBED.CC
+IMGBED图床
